@@ -1,10 +1,10 @@
+###@zedjarvis
 <p>
   <a href="https://twitter.com/CedrouseR">
     <img src="https://img.shields.io/twitter/follow/CedrouseR?label=Follow%20%40CedrouseR&style=social" alt="Twitter">
   </a>&ensp;
 </p>
 
-### Hi 👋, Cedrouse here... @zedjarvis
 
 - 🔭 I’m currently working on updating <a href="https://haftstudio.ke" target="_blank" >Haft Studio Website</a> using Vue3 + Vite + Quasar.
 - 🏗 I’m developing a custom project management software for <a href="https://haftstudio.ke" target="_blank" >Haft Studio</a> with vue3 + Vite + Vuetify plus Django and DRF for backend.
