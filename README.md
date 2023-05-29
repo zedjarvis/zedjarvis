@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on updating <a href="https://haftstudio.ke" target="_blank" >Haft Studio Website</a> using Vue3 + Vite + Quasar.
 - 🏗 I’m developing a custom project management software for <a href="https://haftstudio.ke" target="_blank" >Haft Studio</a> with vue3 + Vite + Vuetify plus Django and DRF for backend.
-- 📫 How to reach me: omondicedo@gmail.com
+- 📫 Contact me: omondicedo@gmail.com
 
 
 ---
