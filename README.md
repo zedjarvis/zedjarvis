@@ -20,13 +20,6 @@
 ---
 
 <div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=zedjarvis&column=7"/>
-</div>
-
----
-
-<div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=zedjarvis&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedjarvis&layout=compact" />
