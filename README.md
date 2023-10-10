@@ -5,10 +5,7 @@
   </a>&ensp;
 </p>
 
-
-- 🔭 I’m currently working on updating <a href="https://haftstudio.ke" target="_blank" >Haft Studio Website</a> using Vue3 + Vite + Vuetify.
-- 🏗 I’m developing a custom project management software for <a href="https://haftstudio.ke" target="_blank" >Haft Studio</a> with vue3 + Vite + Vuetify plus Django and DRF for backend.
-- 📫 Contact me: omondicedo@gmail.com
+- 📫 Get in touch: omondicedo@gmail.com
 
 
 ---
