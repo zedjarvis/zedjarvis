@@ -6,6 +6,7 @@
 </p>
 
 - 📫 Get in touch: omondicedo@gmail.com
+- [zedjarvis.github.io](https://zedjarvis.github.io)
 
 
 <!---
