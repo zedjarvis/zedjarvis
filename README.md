@@ -9,7 +9,7 @@
 </p>
 
 - 📫 Get in touch: omondicedo@gmail.com
-- [zedjarvis.github.io](https://zedjarvis.github.io)
+- 🌍 [Portfolio Website](https://zedjarvis.github.io)
 
 
 <!---
