@@ -1,6 +1,6 @@
 ### @zedjarvis
 
-![Cedrouseroll Omondi portfolio shot](https://github.com/zedjarvis/zedjarvis.github.io/blob/main/hero.pngraw=true)
+![Cedrouseroll Omondi portfolio shot](https://github.com/zedjarvis/zedjarvis.github.io/blob/main/hero.png?raw=true)
 
 <p>
   <a href="https://twitter.com/CedrouseR">
