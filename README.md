@@ -1,4 +1,7 @@
 ### @zedjarvis
+
+![Cedrouseroll Omondi portfolio shot](https://github.com/zedjarvis/zedjarvis.github.io/blob/main/hero.pngraw=true)
+
 <p>
   <a href="https://twitter.com/CedrouseR">
     <img src="https://img.shields.io/twitter/follow/CedrouseR?label=Follow%20%40CedrouseR&style=social" alt="Twitter">
