@@ -7,7 +7,6 @@
 </p>
 
 - 📫 Get in touch: omondicedo@gmail.com
-- 🌍 [Portfolio Website](https://zedjarvis.github.io)
 
 
 <!---
